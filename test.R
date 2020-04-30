@@ -5,12 +5,5 @@ dir()
 getwd()
 ls("..")
 
-## I shouldn't have suppressed the previous informative comment!!!
+## Change that should be CP:
 message("Bla")
-
-## Unwanted addition!
-
-## Wanted!
-
-
-
